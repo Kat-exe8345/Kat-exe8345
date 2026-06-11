@@ -7,7 +7,7 @@ I build full-stack tools, websites, and developer infrastructure — currently f
 The official website for the annual symposium by the Mechanical Engineering Dept of NIT Trichy - Synergy is one of the largest technical symposiums in South India
 - Replaced a multi-spreadsheet admin workflow with a full-stack event management system handling registrations, payments, and authentication.
 - **Stack** - Tanstack Start, PostgreSQL (Drizzle ORM), Better-auth (Google OAuth), Razorpay
-- **Live URL** - [Synergy 2026](synergy.nitt.edu)
+- **Live URL** - [Synergy 2026](https://synergy.nitt.edu)
 
 ---
 
@@ -17,7 +17,7 @@ The official website for the Mechanical Engineering Association of NIT Trichy - 
 - **Association Showcase** - Department initiatives, workshops, and symposium coverage
 - **Auth** - Integrated with DAuth via Better Auth
 - **Stack** - Next.js, Payload CMS, Better Auth
-- **Live URL** - [MEA 2026](mea.nitt.edu)
+- **Live URL** - [MEA 2026](https://mea.nitt.edu)
 
 ---
 
